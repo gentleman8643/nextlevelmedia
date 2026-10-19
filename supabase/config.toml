@@ -1,0 +1,3 @@
+[functions.daily-ingest]
+verify_jwt = true
+entrypoint = "./functions/daily-ingest/index.ts"
